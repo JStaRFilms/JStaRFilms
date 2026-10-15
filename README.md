@@ -11,7 +11,7 @@ I'm John, the filmmaker who keeps opening a code editor.
 
 I make films at [J StaR Films Studios](https://www.jstarstudios.com/). Here you'll find the other side of my work: coding agents, school software, and tools for learning or getting an idea down before it disappears.
 
-[Films & studio](https://www.jstarstudios.com/) · [Studio repositories](https://github.com/J-StaR-Films-Studios) · [Get in touch](https://www.jstarstudios.com/#project-enquiry)
+[About me](https://www.jstarstudios.com/about) · [Films & studio](https://www.jstarstudios.com/) · [Studio repositories](https://github.com/J-StaR-Films-Studios) · [Get in touch](https://www.jstarstudios.com/#project-enquiry)
 
 ## 01 / How I build
 
