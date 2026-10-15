@@ -1,8 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/hero-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="880" alt="J StaR. A working practice. Film, software and the tools between.">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/hero-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-motion-dark.gif">
+  <img src="assets/header-motion-light.gif" width="880" alt="J StaR. A working practice. Film, software and the tools between.">
 </picture>
 
 # Goodness (John) Oluleke-Oke / J StaR
