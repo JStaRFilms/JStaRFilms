@@ -10,7 +10,7 @@ This repository supplies the README and artwork for https://github.com/JStaRFilm
 - Graph scope: `REPOS` in `scripts/activity.py`. Keep the README's repository count and scope accurate if this changes.
 - Exact counts and exclusions: generated `ACTIVITY.md`.
 
-The header combines the approved orange-star artwork with the heatmap's green palette. Its SVGs are maintained directly; graph refreshes do not overwrite them.
+The header uses the supplied J StaR Films logo in white for the dark theme and black for the light theme. The source PNG was cropped to the main logo, excluding the isolated export mark below the transparent gap, and traced into inline vector paths. No external image reference is required. Header SVGs are maintained directly; graph refreshes do not overwrite them.
 
 ## Refresh the activity snapshot
 
